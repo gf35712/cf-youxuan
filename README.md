@@ -2,6 +2,14 @@
 
 根据本机当前网络，对 Cloudflare IP 节点做 TCP 延迟测试 + 下载测速，选出适合当前网络的最优节点。
 
+## 下载
+
+- Windows 客户端：[CFYouXuan-v1.0.0-win64.exe](https://github.com/gf35712/cf-youxuan/releases/download/v1.0.0/CFYouXuan-v1.0.0-win64.exe)
+- 命令行工具：[CFYouXuan-cli-v1.0.0-win64.exe](https://github.com/gf35712/cf-youxuan/releases/download/v1.0.0/CFYouXuan-cli-v1.0.0-win64.exe)
+- 单文件绿色版，双击即可使用，无需安装 Python 或任何运行环境。
+- 客户端已内置 CLI，普通使用只需下载客户端。
+- Release 页面：[github.com/gf35712/cf-youxuan/releases](https://github.com/gf35712/cf-youxuan/releases)
+
 ## 目录结构
 
 ```
