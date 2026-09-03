@@ -1,0 +1,18 @@
+# Python/cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+*.egg-info/
+
+# PyInstaller generated directories
+build/
+build_*/
+dist_*/
+dist/
+
+# Local runtime data (keep on disk, do not version)
+_cf_run/
+
+# Local archive of build intermediates / stray files
+_archive/
